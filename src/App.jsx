@@ -1,9 +1,8 @@
-import Form from "./Form";
-
+import Login from "./Login";
 const App=()=>{
     return(
         <>
-         <Form/> 
+      <Login/>  
         
         </>
     )
